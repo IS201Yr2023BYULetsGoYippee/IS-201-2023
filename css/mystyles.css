@@ -1,0 +1,26 @@
+ul{
+    font-size: 20px;
+    color: lightsalmon;
+    font-style: italic;
+    list-style-position: inside;
+}
+ol{
+    font-size: 20px;
+    color: cornflowerblue;
+    list-style-position: inside;
+}
+h1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border: 3px solid lightblue;
+    margin: 20px;
+    padding: 20px;
+}
